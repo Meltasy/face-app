@@ -1,0 +1,10 @@
+.form {
+    width: 700px;
+    background: linear-gradient(90deg, #D26C2F 0%, #33AC26 100%);
+}
+
+.button {
+    background-color: #063155;
+    color: white;
+    border: 5px solid #0A6C00;
+}
