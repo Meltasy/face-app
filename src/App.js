@@ -10,8 +10,7 @@ import Rank from'./components/rank/Rank';
 import './App.css';
 
 const returnClarifaiRequestOptions = (imageUrl) => {
-  const PAT = process.env.CLARIFAI_PAT;
-  console.log(PAT);
+  const PAT = '4fb74fce6b3f46d486f1e9c74eb132c8';
   const USER_ID = 'meltasy';
   const APP_ID = 'my-first-application';
   const IMAGE_URL = imageUrl;
